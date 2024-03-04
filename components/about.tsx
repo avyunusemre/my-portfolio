@@ -3,8 +3,6 @@
 import React, { useEffect } from 'react'
 import SectionHeading from './section-heading'
 import { motion } from "framer-motion";
-import { useInView } from 'react-intersection-observer';
-import { useActiveSectionContext } from '@/context/active-section-context';
 import { useSectionInView } from '@/lib/hooks';
 
 export default function About() {
@@ -18,7 +16,7 @@ export default function About() {
         transition= {{ delay: 0.175 }}
         id='about'
         >
-        <SectionHeading>Über mich</SectionHeading> 
+        <SectionHeading>About</SectionHeading> 
         <p className="mb-3">
         Nachdem ich 2 Jahre lang in der Türkei als Rechtsanwalt gearbeitet habe{" "}
         bin ich nach Deutschland einwandert. Ich wollte neues Leben mit neue Karrierre anfangen.
