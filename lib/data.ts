@@ -59,7 +59,7 @@ export const experiencesData = [
     title: "Automation Tester und Java Developer Bootcamps",
     location: "online, USA",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "Diese Bootcamps haben zwei Phase. Zuerst nimmt der Teilnehmer 8 Monate lang die Unterrichten an. Zweite Phase ist Praktikum-Phase. Jeder darf nicht in dieser Phase für das Abschluss-Projekt arbeiten. Für das Projekt habe ich mit agilen Methodik gearbeitet. ",
     icon: React.createElement(FaJava),
     date: "2020 - 2022",
   },
