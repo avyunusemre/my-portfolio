@@ -3,9 +3,6 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { FaJava } from "react-icons/fa";
 import { GoLaw } from "react-icons/go";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
   {

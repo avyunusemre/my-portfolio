@@ -25,7 +25,7 @@ export default function About() {
         Wenn ich die Abschlussprojekte mitrechne, habe ich etwa <span className="font-medium">zwei Jahre lang</span> Software gelernt. 
         Dann habe ich mich um drei Stelle beworben und 2 von Ihnen habe ich Angebot bekommen.
         Danach habe ich <span className="font-medium">2 Jahre lang bei der Firma CSTx Software Engineering GmbH als Full Stack Java Entwickler gearbeitet.</span>.{" "}{" "}{" "}
-        <span className="italic">Mein Lieblingsteil des Programmierens</span> ist der Problemlösungsaspekt.Ich liebe das Gefühl, endlich eine Lösung für ein Problem zu finden. 
+        Jetzt arbeite ich seit September bei der Star Coopearation GmbH als Entwicklungsingenieur mit PREEvision-Java. <span className="italic">Mein Lieblingsteil des Programmierens</span> ist der Problemlösungsaspekt.Ich liebe das Gefühl, endlich eine Lösung für ein Problem zu finden. 
         Meine Schwerpunkt ist das Backend mit den {" "}
         <span className="font-medium">
           SpringBoot, JPA, Hibernate, JDBC und relationale Datenbank wie MySQL, MariaDB
