@@ -71,6 +71,14 @@ export const experiencesData = [
     icon: React.createElement(FaJava),
     date: "02/2022 - 02/2024",
   },
+  {
+    title: "Entwicklungsingenieur/ PREEvision - Java",
+    location: "Star Cooperation GmbH, Sindelfingen-Deutschland",
+    description:
+      "Ich arbeite bei Star seit September als Entwicklungsingenieur mit PREEvision - Java.s",
+    icon: React.createElement(FaJava),
+    date: "09/2022 - bis heute",
+  },
 ] as const;
 
 export const skillsData = [

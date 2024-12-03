@@ -42,7 +42,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hallo, Ich bin Yunus.</span> Ich bin ein{" "}
         <span className="font-bold">Full-Stack Entwickler</span> mit{" "}
-        <span className="font-bold">2 Jahre</span> Erfahrungen. Es macht mir spaß, 
+        <span className="font-bold">3 Jahre</span> Erfahrungen. Es macht mir spaß, 
         <span className="italic">Webseites & Anwendungen</span> aufzubauen. Meine Schwerpunkt ist{" "}
         <span className="underline">das Backend (Springboot)</span>.
       </motion.h1>
